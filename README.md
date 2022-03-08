@@ -1,4 +1,15 @@
 
+
+
+![Screenshot 2022-03-08 173806](https://user-images.githubusercontent.com/71132701/157271673-5de2724d-f52f-41a6-ba82-6c63f2b8e4ac.png)       ![Screenshot 2022-03-08 173827](https://user-images.githubusercontent.com/71132701/157271720-2c8c8cd6-b89d-46d6-b7a2-45ae6d667f60.png)           
+
+
+
+
+
+
+
+
 # 1. PyTorch  & KNN
 
 The goals of this assignment are as follows:
